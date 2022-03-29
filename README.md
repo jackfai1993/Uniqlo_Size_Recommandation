@@ -1,6 +1,6 @@
 # Uniqlo_Size_Recommandation
-RecommendationSystemProject_UNIQULO_Size by Alvis Kwok, Naomi Tsang & Jack Lau
-The data was the public informtion of UUNIQLO(JAPAN) on 23rd March 2022 and collected by web scrapping.
+Uniqlo_Size_Recommandation by Alvis Kwok, Naomi Tsang & Jack Lau
+The data was the public informtion of UNIQLO(JAPAN) on 23rd March 2022 and collected by web scrapping.
 
 The Project started on 21st March 2022 and ended at 28th March 2022.
 
